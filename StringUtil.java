@@ -1,4 +1,4 @@
-//אדי אברמוב 307047655
+
 public class StringUtil {
 
 	private static boolean getFirstLettersHelper(String str, char c) {
