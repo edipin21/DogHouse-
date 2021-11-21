@@ -3,7 +3,6 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-//אדי אברמוב 307047655
 public class DogHouse {
 	final int MAX_CAGES = 20;
 	private Cage[] pension;
