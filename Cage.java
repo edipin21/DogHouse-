@@ -2,7 +2,7 @@ import java.io.PrintWriter;
 import java.io.Writer;
 import java.util.Scanner;
 
-//אדי אברמוב 307047655
+
 public class Cage {
 
 	public static final Double CAGE_WEIGTH = 100.0;
