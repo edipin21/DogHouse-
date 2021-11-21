@@ -1,6 +1,5 @@
 import java.io.PrintWriter;
 import java.util.Scanner;
-//אדי אברמוב 307047655
 public class Dog {
 
 	private int weight, cageNum, id;
