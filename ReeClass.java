@@ -1,4 +1,4 @@
-//אדי אברמוב 307047655
+
 public class ReeClass {
 
 	public static boolean isTheSame(String str) {
